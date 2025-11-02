@@ -1,0 +1,6 @@
+project_name: "ml_boilerplate"
+device: "auto"   # etiqueta informativa: auto|cpu|cuda|mps
+paths:
+  data: "data"
+  models: "models"
+seed: 42
